@@ -13,7 +13,7 @@ This figure visual summarizes the entire value proposition: turning complex Mole
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/3aabe9c0-23f1-4d26-8e42-645c35cd803e" />
 
 The repository includes:
-- a **desalination dataset** with membrane and simulation-related features,
+- a **desalination dataset** (Desalination_updated_Nov09.csv) with membrane and simulation-related features,
 - a **Jupyter notebook** for exploratory analysis and model benchmarking,
 - a workflow for evaluating how individual features relate to **ion rejection**,
 - and visualizations comparing **permeation rate** and **salt rejection** across membrane technologies.
