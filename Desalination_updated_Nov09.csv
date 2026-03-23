@@ -1,5 +1,5 @@
-Area,Pressure,Sigma1,Epsilon1,Sigma2,Epsilon2,Thickness,Flux,Rejection,Graphene
-50,50,2.39,0.0692,0,0,3.39,23.28,99.515,
+Area,Pressure,Sigma1,Epsilon1,Sigma2,Epsilon2,Thickness,Flux,Rejection,Materials
+50,50,2.39,0.0692,0,0,3.39,23.28,99.515,Graphene
 50,100,3.39,0.0692,0,0,3.39,43.2725,100,
 50,150,3.39,0.0692,0,0,3.39,62.8175,99.0325,
 50,200,3.39,0.0692,0,0,3.39,77.965,96.935,
