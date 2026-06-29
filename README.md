@@ -53,7 +53,7 @@ pip install pandas numpy matplotlib scikit-learn xgboost
 ### Run the notebook
 
 ```bash
-water_desalination-jan11.ipynb
+water_des_226_jun10.ipynb
 ```
 
 ---
