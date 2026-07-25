@@ -2,6 +2,34 @@
 Accelerating Water Desalination Screening of 2D Membranes via Machine Learning Surrogates
 This repository presents a **data-driven framework for accelerating water desalination research** by replacing expensive molecular dynamics (MD) simulation cycles with a fast surrogate machine learning pipeline. The project focuses on predicting the desalination performance of **2D membrane materials** using membrane- and pore-level physicochemical features.
 
+## Associated Publication
+
+This repository contains the dataset and machine-learning workflow associated
+with the following publication:
+
+“Accelerating Water Desalination Screening of 2D Membranes via Machine Learning Surrogates,”  
+*The Journal of Physical Chemistry C*, 2026.  
+https://doi.org/10.1021/acs.jpcc.6c01982
+
+[![DOI: 10.1021/acs.jpcc.6c01982](https://img.shields.io/badge/DOI-10.1021%2Facs.jpcc.6c01982-blue.svg)](https://doi.org/10.1021/acs.jpcc.6c01982)
+
+## Citation
+
+If you use the dataset, notebook, code, figures, or results from this repository and paper
+please cite the associated publication:
+
+```bibtex
+@article{BaratiFarimani2026Accelerating,
+  author  = {Barati Farimani, Omid and Barati Farimani, Amir},
+  title   = {Accelerating Water Desalination Screening of 2D Membranes via Machine Learning Surrogates},
+  journal = {The Journal of Physical Chemistry C},
+  year    = {2026},
+  doi     = {10.1021/acs.jpcc.6c01982},
+  url     = {https://doi.org/10.1021/acs.jpcc.6c01982}
+}
+
+
+
 The two main prediction targets are:
 - **Water flux**
 - **Ion rejection**
