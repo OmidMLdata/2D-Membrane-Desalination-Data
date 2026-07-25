@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: >-
+  If you use the dataset, notebook, code, or results from this repository,
+  please cite the associated research article.
+type: dataset
+
+title: "2D Membrane Desalination Data and Machine-Learning Workflow"
+
+authors:
+  - family-names: "Barati Farimani"
+    given-names: "Omid"
+  - family-names: "Barati Farimani"
+    given-names: "Amir"
+
+url: "https://github.com/OmidMLdata/2D-Membrane-Desalination-Data"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Barati Farimani"
+      given-names: "Omid"
+    - family-names: "Barati Farimani"
+      given-names: "Amir"
+  title: "Accelerating Water Desalination Screening of 2D Membranes via Machine Learning Surrogates"
+  journal: "The Journal of Physical Chemistry C"
+  year: 2026
+  doi: "10.1021/acs.jpcc.6c01982"
+  url: "https://doi.org/10.1021/acs.jpcc.6c01982"
